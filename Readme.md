@@ -33,12 +33,15 @@ the campfire.
         <td colspan="2">
             <font size="+1"><b>Who Am I?</b></font><br>
             I'm just humble programmist and artist with huge love to both art and programming.<br>
-            I also created my own steampunk/fantasy universe in which I want to create
-            my own RPG game one day.<br>
-               I perceive code as art, and so, I have rather nerdy attitude towards
-            programming, enjoying writing boilercode and adjusting HTML formatting from
-            pure joy of creation.
-            <br><center><font size="+2">❂</font></center>
+            I perceive the latter as art, too, and so, I have rather nerdy attitude towards
+            code, enjoying writing boilercode and adjusting HTML formatting from
+            pure joy of creation.<br>
+            <br>
+               I'm a bit disenchanted with current development of the world, and as such, I have
+            some ambitious dreams to give some beauty to it. 
+            If you find yourself feeling in similar way, feel free to join my 
+            Discord server or message me. Who knows what this may bring, and friendly
+            talk is also great outcome.
         </td>
     </tr>
     
