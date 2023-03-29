@@ -18,19 +18,15 @@ the campfire.
             🪔 <a href="https://github.com/Toma400/IDE-plugins">Plugins & Themes</a><br>
             📜 <a href="https://github.com/Toma400/Licenses">Licenses</a><br>
         </td>
-        <td width="50%">
-            <center>
+        <td width="50%" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toma400&count_private=true&theme=merko&border_color=248610">
-            </center>
         </td>
     </tr>
     <tr>
-        <td colspan="2">
-            <center>
+        <td colspan="2" align="center">
             <a href="https://bit.ly/3Quc63o"><img src="https://img.shields.io/badge/%20-Artography-279DBA?style=plastic&logo=appveyor"></a>
             <a href="https://linktr.ee/toma400"><img src="https://img.shields.io/badge/%20-Linktree%20-108931?style=plastic&logo=appveyor"></a>
             <a href="https://discord.gg/GbTw9KqnrE"><img src="https://img.shields.io/discord/842338281692725268?color=AA16D1&label=%20&logo=Discord&logoColor=DDD4EA&style=plastic"></a>
-            </center>
         </td>
     </tr>
     <tr>
@@ -42,7 +38,7 @@ the campfire.
                I perceive code as art, and so, I have rather nerdy attitude towards
             programming, enjoying writing boilercode and adjusting HTML formatting from
             pure joy of creation.
-            <br><font size="+2"><center>❂</center></font>
+            <br><center><font size="+2">❂</font></center>
         </td>
     </tr>
     
