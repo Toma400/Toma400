@@ -19,7 +19,7 @@ the campfire.
             📜 <a href="https://github.com/Toma400/Licenses">Licenses</a><br>
         </td>
         <td width="50%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toma400&count_private=true&theme=merko&border_color=248610">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toma400&count_private=true&theme=merko&border_color=248610">
         </td>
     </tr>
     <tr>
