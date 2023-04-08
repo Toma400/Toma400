@@ -11,7 +11,7 @@ the campfire.
             🧨 <a href="https://www.curseforge.com/minecraft/mc-mods/wastelands-of-baedoor">Wastelands of Baedoor</a><br>
             🛕 <a href="https://github.com/Toma400/Civilisations_of_Baedoor">Civilisations of Baedoor</a><br>
             🌿 <a href="https://github.com/Toma400/Spires_of_Baedoor">Spires of Baedoor</a><br>
-            📚 Librerian<br>
+            📚 <a href="https://github.com/Toma400/Librerian">Librerian</a><br>
             🏯 <a href="https://github.com/Toma400/The_Isle_of_Ansur">The Isle of Ansur</a><br>
             🛠️ Airship Guard<br>
             <br><font size="+1"><b>Useful Repos:</b></font><br>
