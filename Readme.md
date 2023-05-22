@@ -44,6 +44,9 @@ the campfire.
             talk is also great outcome.
         </td>
     </tr>
+    <tr>
+        <img src="https://skillicons.dev/icons?i=python,nim,kotlin,elixir,java,lua,idea,godot,markdown,github,atom,ruby,rust,html" alt="Logos" />
+    </tr>
     
 </table>
 
