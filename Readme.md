@@ -45,7 +45,7 @@ the campfire.
         </td>
     </tr>
     <tr>
-        <img src="https://skillicons.dev/icons?i=python,nim,kotlin,elixir,java,lua,idea,godot,markdown,github,atom,ruby,rust,html" alt="Logos" />
+        <img src="https://skillicons.dev/icons?i=python,nim,kotlin,elixir,java,lua,idea,godot,markdown,github,atom,ruby,rust,html" align="center" alt="Logos" />
     </tr>
     
 </table>
