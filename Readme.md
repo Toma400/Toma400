@@ -14,6 +14,9 @@ the campfire.
             📚 <a href="https://github.com/Toma400/Librerian">Librerian</a><br>
             🏯 <a href="https://github.com/Toma400/The_Isle_of_Ansur">The Isle of Ansur</a><br>
             🛠️ Airship Guard<br>
+            <br><font size="+1"><b>Libraries:</b></font><br>
+            ⚙️<a href="https://github.com/Toma400/Tribalify"> Tribalify </a><br>
+            ⚙️<a href="https://github.com/Toma400/Nimfire"> Nimfire </a><br>
             <br><font size="+1"><b>Useful Repos:</b></font><br>
             🪔 <a href="https://github.com/Toma400/IDE-plugins">Plugins & Themes</a><br>
             📜 <a href="https://github.com/Toma400/Licenses">Licenses</a><br>
