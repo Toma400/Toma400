@@ -2,7 +2,7 @@
 Welcome in my warm, little home, my friend. Make yourself a tea and feel the warmth of
 the campfire.
 
-![Airship](https://cdn.discordapp.com/attachments/1090673355193061457/1090673355578945576/airship_at_almost_night_part_2.png)
+![Airship](https://i.pinimg.com/originals/72/be/2e/72be2ecf9d1a77a826ba7c9bbd538361.png)
 
 <table width="100%">
     <tr>
